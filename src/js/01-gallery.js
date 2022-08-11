@@ -21,6 +21,7 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionPosition: 'bottom',
   captionDelay: 250,
 });
+//7 homework
 // function handleCreateCards(event) {
 //     return galleryItems.map(({ preview, original, description }) => {
 //             return`<div class="gallery__item">
